@@ -932,7 +932,7 @@ h3 {
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 59, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
-    width: 70px;
+    width: 80px;
   }
 }
 
@@ -1192,8 +1192,8 @@ h3 {
 
 /* line 292, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
 .header-area .social_wrap .number {
-  margin-right: 20px;
-  padding-right: 20px;
+  margin-right: 0px;
+  padding-right: 0px;
   border-right: 1px solid #EAEAEA;
 }
 
@@ -1201,7 +1201,7 @@ h3 {
   /* line 292, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
   .header-area .social_wrap .number {
     margin-right: 0;
-    padding-right: 10px;
+    padding-right: 0px;
   }
 }
 
